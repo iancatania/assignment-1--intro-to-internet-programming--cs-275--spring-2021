@@ -20,13 +20,29 @@ h2 {
     margin-left: auto;
 }
 
+h3 {
+  border: 2px solid black;
+  background-color: white;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h5 {
+  border: 2px solid black;
+  background-color: white;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 p {
-    background-color: white;
     border: 2px solid black;
+    background-color: white;
+    width: 700px;
     margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
-    width: 700px;
 }
 
 img {
